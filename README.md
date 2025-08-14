@@ -1,5 +1,6 @@
-<div style="padding-left: 20px; padding-right:20px;">
-# Hejsan 🥰 I'm Madison
+<div style="margin-left: 20px; margin-right:20px;">
+
+  # Hejsan 🥰 I'm Madison
 
 🌍 GIS Analyst & Cartographer who picked up some frontend skills along the way
 
@@ -35,4 +36,5 @@
 ![Affinity Designer Badge](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=fff&style=flat)
 ![Affinity Photo Badge](https://img.shields.io/badge/Affinity%20Photo-4E3188?logo=affinityphoto&logoColor=fff&style=flat)
 ![Affinity Publisher Badge](https://img.shields.io/badge/Affinity%20Publisher-891B26?logo=affinitypublisher&logoColor=fff&style=flat)
+
 </div>
